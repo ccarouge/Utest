@@ -1,0 +1,4 @@
+&GSWP3
+ BasePath="TheMetFieldPath"
+ LandMaskFile="TheLandMaskFile"
+\
